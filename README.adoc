@@ -1,0 +1,4 @@
+= Youtube Player API
+
+This document written in https://gist.github.com/dcode/0cfbf2699a1fe9b46ff04c41721dda74[GFA (Github Flavored Asciidoc)] 
+User manual https://asciidoctor.org/docs/user-manual/[here.]
