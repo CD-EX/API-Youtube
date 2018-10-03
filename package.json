@@ -1,0 +1,28 @@
+{
+  "name": "api-youtube",
+  "version": "1.0.0",
+  "description": "Test page using Youtube API",
+  "main": "script.js",
+  "scripts": {
+    "test": "start chrome .\\index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CD-EX/API-Youtube.git"
+  },
+  "keywords": [
+    "js",
+    "Youtube-api"
+  ],
+  "author": "Ryan Fleck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CD-EX/API-Youtube/issues"
+  },
+  "homepage": "https://github.com/CD-EX/API-Youtube#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
